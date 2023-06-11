@@ -1,0 +1,41 @@
+
+
+
+
+
+.menu-container .menu-toggle {  /*X cerrar*/
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background-color: white;
+  width: 24px;
+  height: 24px;
+  border: none;
+}
+
+
+
+
+.header1 .menu-toggle { /* hamburguesa */
+  position: absolute;
+  top: 30px;
+  right: 16px;
+  background-color: white;
+  width: 24px;
+  height: 24px;
+  border: none;
+}
+
+
+
+
+.svg_close {
+  width: 24px;
+  height: 24px;
+   
+}
+.svg_hamburger {
+  width: 24px;
+  height: 24px;
+  
+}
